@@ -19,5 +19,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-0d1117?style=for-the-badge&logo=firebase)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;	
 ![Figma](https://img.shields.io/badge/figma-0d1117?style=for-the-badge&logo=figma&logoColor=pink)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CD853F&height=100&section=footer"/>
